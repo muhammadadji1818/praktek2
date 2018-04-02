@@ -2,6 +2,11 @@ package praktek2;
 public class reactangel {
     double panjang;
     double lebar;
+
+    public reactangel() {
+        panjang=5;
+        lebar=5;
+    }
     
     void cetakinfo(){
         System.out.println("======================");
