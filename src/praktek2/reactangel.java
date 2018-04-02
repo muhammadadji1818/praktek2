@@ -14,4 +14,7 @@ public class reactangel {
         luas=panjang*lebar;
         return luas;
     }
+    void cetakluas(){
+        System.out.println("luasnya adalah: "+hitungluas());
+    }
 }

@@ -7,5 +7,6 @@ public class reactangelaksi {
          
          r1.cetakinfo();
          System.out.println("luas reactangel = "+r1.hitungluas());
+         r1.cetakluas();
     }
 }
